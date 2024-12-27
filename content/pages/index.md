@@ -57,7 +57,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 47
+      opacity: 37
       url: /images/513d91f6-fb57-470e-923d-4908e43b8c2e.png
   - type: FeaturedItemsSection
     title:
